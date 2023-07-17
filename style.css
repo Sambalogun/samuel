@@ -1,0 +1,89 @@
+*{padding: 0px;
+margin:0px;
+background-color: aquamarine;
+
+}
+.container h1{
+    font: 100;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#8a2be2 ;
+    margin: 60px;
+    text-align: center;
+    /* justify-content: space-around; */
+}
+.container p{
+    text-align: center;    
+}
+.container img{
+    border-radius: 60px;
+    /* margin-top: 10px; */
+
+}
+.title h1{
+    color: blue;
+    text-align: center;
+}
+.title p{
+    text-align: center;
+    color: dodgerblue;
+}
+.TAGGED{
+    margin-left: 20px;
+    color: green;
+}
+.TAGGED span{
+    margin-left: 60px;
+    color: rgb(80, 143, 80);
+}
+.TAGGED p{
+    text-align: center;
+    color: black;
+    font-style: italic;
+     font-size: larger;
+}
+.DETAILS{
+    display: flex;
+    justify-content: space-between;
+    color: darkblue;
+}
+.officers{
+    display: flex;
+    justify-content: space-between;
+    color: black;
+}
+.postion{
+    display: flex;
+    justify-content: space-around;
+    color: tomato;
+}
+.officer1{
+    display: flex;
+    color: black;
+    justify-content: space-around;
+}
+.postion1{
+    display: flex;
+    justify-content: space-around;
+    color: tomato;
+}
+.officer2{
+    display: flex;
+    color: black;
+    justify-content: space-around;
+}
+.postion2{
+    display: flex;
+    justify-content: space-around;
+    color: tomato;
+}
+.officer3{
+    text-align: center;
+    color: black;}
+.officer3 p{
+    color: tomato;
+}
+@media screen and {max-width 1243px}
+    body{
+        background-color: blueviolet;
+    }
+}
